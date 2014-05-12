@@ -1,4 +1,4 @@
 doubtful
 ========
 
-Doubtful ruby moduel
+Doubtful ruby module
